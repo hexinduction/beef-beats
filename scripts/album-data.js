@@ -2,7 +2,7 @@ const album = {
   title: 'Beef Briefs',
   artist: 'Bishop Beef',
   releaseInfo: '2019 Bovine Sacrament',
-  albumArtUrl: 'assets/images/album_covers/13.png',
+  albumArtUrl: 'assets/images/album_covers/sky.png',
   songs: [
     { title: 'Silent Night', duration: '2:41', soundFileUrl: 'assets/music/silent-night.mp3' },
     { title: 'Donna House', duration: '3:32', soundFileUrl: 'assets/music/donna-house.mp3' },
